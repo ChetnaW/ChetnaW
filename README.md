@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetna Werulkar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\Admin\Downloads\tumblr_2cb005113fc8030a47e44e8ca13cdc89_1947dce1_1280.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47b1hl6zyfr9yly2jav1gmlwl470jp1rf88mpmx1i7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetnaw&label=Profile%20views&color=0e75b6&style=flat" alt="chetnaw" /> </p>
 
